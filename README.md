@@ -1,4 +1,4 @@
-# Coursera Curse Professional certificates Google it automation
+# Coursera Course Professional certificates Google it automation
 In this repository I will store all my knowledge acquired from the Coursera python course given by Google. this course consists of 6 modules, which are as follows
 1. Crash Course on Python
 2. Using Python to Interact with the Operating System
