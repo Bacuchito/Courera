@@ -1,0 +1,9 @@
+5c5,6
+<     usage = psutil.cpu_percent()
+---
+>     usage = psutil.cpu_percent(1)
+>     print("DEBUG: usage: {}".format(usage))
+9c10
+<     print('ERROR! CPU is overloaded')
+---
+>     print("ERROR! CPU is overload")
